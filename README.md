@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpeg" alt="WiFi-Jammer-Automation Banner" width="100%"/>
+  <img src="asserts/banner.jpeg" alt="WiFi-Jammer-Automation Banner" width="100%"/>
 </p>
 
 <h1 align="center">WiFi-Jammer-Automation</h1>
